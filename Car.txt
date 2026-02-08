@@ -3,3 +3,4 @@ Toyta
 Opel
 Kia
 Tesla
+BYD
